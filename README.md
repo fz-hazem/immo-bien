@@ -11,9 +11,9 @@ Un module Odoo développé pour la gestion et le suivi des biens immobiliers d'u
 
 | Vue Liste | Formulaire / Détails |
 | :---: | :---: |
-| ![Vue Liste des Biens](docs/images/bien_list.png) | ![Vue Formulaire](docs/images/bien_form.png) |
+| ![Vue Liste des Biens](images/bien-list.png) | ![Vue Formulaire](images/bien-form.png) |
 
-*(Note : Remplacez les chemins ci-dessus par l'emplacement réel de vos images dans votre dépôt)*
+
 
 ## 🛠️ Prérequis
 * [Docker](https://www.docker.com/)
