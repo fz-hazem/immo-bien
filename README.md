@@ -87,10 +87,10 @@ Ouvrez votre navigateur et rendez-vous sur :
 
 ```text
 immo-bien/
-├── models/          # Définition des modèles de données Python (ex: bien.py)
-├── views/           # Fichiers XML des vues et menus (ex: bien_views.xml)
-├── security/        # Droits d'accès (ex: ir.model.access.csv)
-├── __manifest__.py  # Fichier de configuration du module
+├── models/          
+├── views/           
+├── security/        
+├── __manifest__.py  
 └── docker-compose.yml
 
 ```
@@ -98,15 +98,3 @@ immo-bien/
 ## 📜 Licence
 
 Ce projet est sous licence [LGPL-3](https://www.google.com/search?q=LICENSE).
-
-```
-
----
-
-### Comment intégrer proprement des images et des captures dans votre README :
-
-1. **Créer un dossier pour les images** : Dans votre projet, créez un dossier nommé `docs/images/` (ou simplement `images/`).
-2. **Y déposer vos captures** : Enregistrez vos captures d'écran dans ce dossier (par exemple `bien_list.png`).
-3. **Pousser sur GitHub** : Une fois vos images ajoutées et commitées, GitHub affichera automatiquement les balises Markdown `![Texte](chemin)` sous forme d'images directement dans la page d'accueil de votre dépôt (`README.md`).
-
-```
