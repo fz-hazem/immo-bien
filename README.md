@@ -11,9 +11,7 @@ Un module Odoo développé pour la gestion et le suivi des biens immobiliers d'u
 
 | Vue Liste | Formulaire / Détails |
 | :---: | :---: |
-| ![Vue Liste des Biens](images/bien-list.png) | ![Vue Formulaire](images/bien-form.png) |
-
-
+| ![Vue Liste des Biens](images/bien_list.png) | ![Vue Formulaire](images/bien_form.png) |
 
 ## 🛠️ Prérequis
 * [Docker](https://www.docker.com/)
@@ -23,8 +21,8 @@ Un module Odoo développé pour la gestion et le suivi des biens immobiliers d'u
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone [https://github.com/votre-nom-utilisateur/votre-repo.git](https://github.com/votre-nom-utilisateur/votre-repo.git)
-   cd nom-du-repo
+   git clone [https://github.com/fz-hazem/immo-bien.git](https://github.com/fz-hazem/immo-bien.git)
+   cd immo-bien
 docker-compose up -d
 Accéder à Odoo :
 Ouvrez votre navigateur et rendez-vous sur :
